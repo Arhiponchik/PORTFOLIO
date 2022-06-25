@@ -5,7 +5,7 @@
   </head>
   <body>
     <header>
-      <a class="link-header" href="leonov.html">СОТНИОВ АРХИПОН</a>
+      <a class="link-header" href="">СОТНИОВ АРХИПОН</a>
     </header>
     <main>
       <nav>
