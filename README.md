@@ -10,7 +10,7 @@
     <main>
       <nav>
         <a class="link-nav" href="https://github.com/Arhiponchik/MY-WORKS#readme"><b>мои лучшие работы</b></a>
-        <a class="link-nav" href="info.html"><b>полезная информация</b></a>
+        <a class="link-nav" href="https://github.com/Arhiponchik/info#readme"><b>(бес)полезная информация</b></a>
       </nav>
       <h1>Web-sites<br/> developer</h1>
       <p>разметка и стилизация</p>
