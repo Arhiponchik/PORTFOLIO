@@ -1,4 +1,4 @@
-<style.scc>
+<style.css>
 <html>
   <head>
     <title>АРХИПОН</title>
